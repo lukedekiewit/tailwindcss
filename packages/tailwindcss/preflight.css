@@ -229,6 +229,14 @@ video {
 }
 
 /*
+  Restore default margin for `<dialog>` elements.
+*/
+
+dialog {
+  margin: auto;
+}
+
+/*
   1. Inherit font styles in all browsers.
   2. Remove border radius in all browsers.
   3. Remove background color in all browsers.
