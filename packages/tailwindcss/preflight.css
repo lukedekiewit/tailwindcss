@@ -127,15 +127,6 @@ pre {
 }
 
 /*
-  Restore default margin for <dialog> elements.
-*/
-
-dialog {
-  margin: auto;
-}
-
-
-/*
   Add the correct font size in all browsers.
 */
 
